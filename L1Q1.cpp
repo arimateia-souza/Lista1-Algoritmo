@@ -5,7 +5,7 @@
 using namespace std;
 int main() {
 int anos, meses,dias, resultado;
-  
+  //so pra testar
 //entrada
 cout <<"\nDigite sua idade em anos, meses e dias:";
 
